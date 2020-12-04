@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chethiya Nishanath</h1>
-<h3 align="center">An IT undergraduate from Srilanka</h3>
+<h1 align="center">I'm Chethiya Nishanath</h1>
+<h3 align="center"> IT undergraduate from University of Moratuwa Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethiyanishanath&label=Profile%20views&color=0e75b6&style=flat" alt="chethiyanishanath" /> </p>
 

@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chethiya Nishanath</h1>
-
 <h3 align="center">
-Full-Stack Software Engineer | Java & Go Developer | Cloud & Kubernetes Enthusiast
+Java & Go Developer | Cloud & Kubernetes Enthusiast
 </h3>
 
 <p align="center">
@@ -15,20 +13,6 @@ Building scalable backend systems, cloud-native applications, and modern web sol
 <p align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="350"/>
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Software Engineer
-- ☕ Backend specialist with **Java & Spring Boot**
-- 🐹 Building modern services with **Go**
-- ☸️ Interested in **Kubernetes, Cloud Native Architectures & Microservices**
-- ☁️ Experienced with **AWS, Docker, Kubernetes and CI/CD**
-- 🧠 Currently exploring **Distributed Systems, AI, and Low-Level Programming**
-- 🎓 MSc in Big Data Analytics
-
----
 
 ## 🛠️ Tech Stack
 
@@ -88,11 +72,3 @@ Building scalable backend systems, cloud-native applications, and modern web sol
 - AI Powered SaaS Applications
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ChethiyaNishanath">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
